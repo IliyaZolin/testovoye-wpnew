@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Окна и материал", 
+		"/okna-i-materily/", 
+		Array(), 
+		Array("icon"=>"box.png"), 
+		"" 
+	),
+	Array(
+		"Правила", 
+		"#", 
+		Array(), 
+		Array("icon"=>"customer-support.png"), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"#", 
+		Array(), 
+		Array("icon"=>"megaphone.png"), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"#", 
+		Array(), 
+		Array("icon"=>"hot-sale.png"), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array("icon"=>"user.png"), 
+		"" 
+	)
+);
+?>
